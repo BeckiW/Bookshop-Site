@@ -1,4 +1,4 @@
-##Bookshop and Rating websites! 
+## 📚 Bookshop and Rating websites! 
 
 In partnership with Fyndiq and YDB, the idea of this project was to build a site where you could add and rate products. The site also has login functions and server-side validation. Added extras include pagination via the API
 
